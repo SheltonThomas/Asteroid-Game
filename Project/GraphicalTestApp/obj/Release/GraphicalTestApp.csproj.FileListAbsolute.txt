@@ -1,0 +1,7 @@
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Release\GraphicalTestApp.csprojAssemblyReference.cache
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Release\GraphicalTestApp.csproj.CoreCompileInputs.cache
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Release\GraphicalTestApp.exe.config
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Release\GraphicalTestApp.exe
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Release\GraphicalTestApp.pdb
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Release\GraphicalTestApp.exe
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Release\GraphicalTestApp.pdb

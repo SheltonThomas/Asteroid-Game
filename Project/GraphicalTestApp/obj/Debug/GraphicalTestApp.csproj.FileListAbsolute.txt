@@ -1,0 +1,14 @@
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.exe.config
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.exe
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.pdb
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.csprojAssemblyReference.cache
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.exe
+C:\Users\Glitc\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.pdb
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.exe.config
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.exe
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\bin\Debug\GraphicalTestApp.pdb
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.csproj.CoreCompileInputs.cache
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.exe
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.pdb
+C:\Users\s198053\Source\Repos\GraphicalTestApp\GraphicalTestApp\obj\Debug\GraphicalTestApp.csprojAssemblyReference.cache
