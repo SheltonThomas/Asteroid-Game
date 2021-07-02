@@ -10,7 +10,7 @@ Open the program
 Navigating the menu
 -------------------------
 **Controls to the Space Game**
-- Use WASD to move the ship around the map.
+- Use W and S to move the ship around the map.
 - Use A and D to Rotate the Ship Left and Right
 - Left and Right arrow to rotate the barrel of the Ship.
 - Space Bar to shoot bullets from the Ship
